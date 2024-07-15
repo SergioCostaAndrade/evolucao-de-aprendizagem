@@ -6,13 +6,13 @@ Módulo 06 - Frontend
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
-- Soft skills
-- LinkedIn
-- Ética em tecnologia
-- Gestão de tempo
-- Git básico
-- Introdução a TypeScript
-- Métodos de strings
+- Introdução ao Front-end e à Web
+- HTML: tags, atributos e valores
+- CSS - Seletores e propriedades 
+- Layout
+- Layout flexivel
+- Formulario
+- Responsividade
 - Métodos de arrays
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
