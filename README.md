@@ -17,7 +17,7 @@ Módulo 06 - Frontend
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 - Sei que o Frontend é uma stack que nos prepara para desenvolver páginas na web/mobile, utilizando HTML e CSS.
-  Apenas isso, nada mas aprofundado.
+  Apenas isso, nada mais aprofundado.
   
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
