@@ -2,7 +2,7 @@
 evolucao-de-aprendizagem
 ![](https://i.imgur.com/xG74tOh.png)
 
-# EXEMPLO - Conteúdo modelo no GitHub
+Módulo 06 - Frontend
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
